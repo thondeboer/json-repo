@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
   {
     "id": 1,
     "category": "animal welfare",
@@ -11,4 +12,8 @@
       "music": true
     }
   }
-]
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
